@@ -2,9 +2,9 @@
 
 This repository contains three different systems:
 
-1. **Admin** – authenticated admin dashboard for company staff  
+1. **Admin** – authenticated admin dashboard accessed bu administrator and the staff of the company 
 2. **Client** – frontend landing page with interactive forms for users  
-3. **Backend** – server-side logic for both the client and admin dashboards  
+3. **Server/ Backend** –  logic for both the client and admin dashboards  
 
 ---
 
